@@ -1,0 +1,32 @@
+.jumbotron{
+    text-align: center;
+    background-color: rgb(255, 0, 0);
+}
+
+a{
+    color: blueviolet;
+    background-color: lawngreen;
+    border-radius: 10px;
+}
+
+body{
+    background-color: gold;
+}
+
+h1{
+    text-align: center;
+}
+
+hr{
+   border-color: green;
+}
+p{
+    color: rgb(24, 35, 192);
+    font-style: italic;
+    font-size: larger;
+}
+
+marquee{
+    font-size: xx-large;
+    font-style: oblique;
+}
