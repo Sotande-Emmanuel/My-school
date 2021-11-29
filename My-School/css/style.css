@@ -19,6 +19,8 @@ h1{
 
 hr{
    border-color: green;
+   border-style: dotted;
+   border-style: dashed;
 }
 p{
     color: rgb(24, 35, 192);
