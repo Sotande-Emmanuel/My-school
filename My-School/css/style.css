@@ -19,7 +19,6 @@ h1{
 
 hr{
    border-color: green;
-   border-style: dotted;
    border-style: dashed;
 }
 p{
@@ -34,5 +33,25 @@ marquee{
 }
 
 .move{
+    color: blue;
+    border-style: dashed;
+    border-color: red;
+}
+
+.ronaldo{
+    background-color: red;
+    border-radius: 10px;
+    width: 300px;
+    text-align:center ;
+}
+
+.statement{
+    background-color: red;
+    width: 40%;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.line{
     border-style: dashed;
 }
